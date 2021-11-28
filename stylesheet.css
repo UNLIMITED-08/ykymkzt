@@ -17,8 +17,6 @@ header {
     top:0;
     z-index:10;
   }
-  .header-center{
-}
   .header-logo {
     float: left;
       color:red;
