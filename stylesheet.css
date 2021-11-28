@@ -4,9 +4,6 @@ body {
 }
 li {
     list-style: none;
-
-    /*float: left;
-    padding: 15px 40px; メモ書き*/
 }
 
 
@@ -59,14 +56,11 @@ header {
     height: 170px;
     font-size: 35px;
     color: white;
-    /*opacity: 0.8;
-    /*background-color: tomato;*/
     margin-top: 60px;
 }
 .top-container p{
     font-size: 15px;
     color: white;
-    /*background-color: violet;*/
     margin-top: 200px;
 
 }
@@ -76,7 +70,6 @@ header {
 .btn-wrapper p{
     font-size: 10px;
     color: white;
-    /*background-color:wheat;*/
     margin-top: 10px;
 }
 .signup {
@@ -96,7 +89,6 @@ header {
     padding: 8px 24px;
     color: white;
     display: inline-block;
-    /* opacity: 0.8; */
     border-radius: 4px;
   }
   
