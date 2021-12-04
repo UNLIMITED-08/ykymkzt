@@ -1,1 +1,1 @@
-# prog-7.github.io.main
+# prog-7.github.io
