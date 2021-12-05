@@ -1,5 +1,5 @@
-*{
-    box-sizing:border-box;
+* {
+  box-sizing: border-box;
 }
 body {
     font-family: "Georgia,serif";
@@ -10,10 +10,9 @@ li {
     /*float: left;
     padding: 15px 40px; メモ書き*/
 }
-.clear{
-    clear:left;
+.clear {
+  clear: left;
 }
-
 
 header {
     height: 50px;
@@ -58,7 +57,7 @@ header {
 .top-wrapper {
     height: 900px;
     width: 100%;
-    background-image: url("https://github.com/UNLIMITED-08/BLW/blob/main/304876_l.jpg?raw=true");
+    background-image: url(folder/304876_l.jpg);
 }
 .top-container{
     text-align:center;
@@ -76,14 +75,14 @@ header {
 }
 .top-container p{
     font-size: 15px;
-    color:black;
+    color:white;
     /*background-color: violet;*/
     margin-top: 250px;
 
 }
 .btn-wrapper{
     margin: 50px 0;
-    margin-bottom:10px;
+    margin-bottom: 10px;
 }
 .btn-wrapper p{
     font-size: 20px;
@@ -148,6 +147,7 @@ header {
 }
 .lesson-icon {
     position: relative;
+    text-align: center;
 }
 .lesson-icon p {
     font-size: 14px;
@@ -159,23 +159,26 @@ header {
 .txt-contents{
     color:black;
     font-size: 15px;
+    padding: 20px 0;
+    background-color: turquoise;
+    border-radius: 30px;
+    text-align: center;
 }
 
 
 .footer-container{
-  margin-top: 200px;
+  padding-top: 400px;
   height: 400px;
-  background-image:url("https://github.com/UNLIMITED-08/BLW/blob/main/4969206_s.jpg?raw=true") ;
+  background-image:url(folder/4969206_s.jpg) ;
   width: 100%;
   text-align: center;
 }
   .footer-logo{
-    padding: 40px 0;
       font-size: 40px;
       color:black;
   }
   .footer-list{
     padding: 50px 0;
     font-size: 20px;
-      color:turquoise;
+      color:black;
   }
