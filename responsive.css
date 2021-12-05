@@ -10,7 +10,7 @@
   /* スマホ向けレイアウト */
   @media all and (max-width: 670px) {
    .top-wrapper{
-       width:25;
+       width:25%;
       }
    .lesson-icon{
        width: 100px;
