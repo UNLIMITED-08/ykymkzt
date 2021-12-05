@@ -10,6 +10,9 @@ li {
     /*float: left;
     padding: 15px 40px; メモ書き*/
 }
+.clear{
+    clear:left;
+}
 
 
 header {
