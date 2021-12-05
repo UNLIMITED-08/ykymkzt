@@ -80,6 +80,7 @@ header {
 }
 .btn-wrapper{
     margin: 50px 0;
+    margin-bottom:10px;
 }
 .btn-wrapper p{
     font-size: 20px;
