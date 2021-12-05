@@ -1,2 +1,2 @@
 # prog-7.github.io
-BLW
+https://unlimited-08.github.io/BLW/
