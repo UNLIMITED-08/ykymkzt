@@ -9,10 +9,13 @@
 }
   /* スマホ向けレイアウト */
   @media all and (max-width: 670px) {
-   /*.top-wrapper{
-       width:25%;
-      }*/
+   .top-wrapper{
+       width:100%;
+      }
    .lesson-icon{
        width: 100px;
+   }
+      .footer-container{
+   width: 100%;
    }
   }
