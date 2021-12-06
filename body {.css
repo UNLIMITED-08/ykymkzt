@@ -164,6 +164,9 @@ header {
     border-radius: 30px;
     text-align: center;
 }
+.clear{
+  float:left;
+}
 
 
 .footer-container{
