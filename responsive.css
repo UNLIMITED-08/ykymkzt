@@ -3,10 +3,12 @@
     .lesson-wrapper{
         height:2500px;
     }
-    .lesson{
+ .lesson{
       width:50%;
   }
-
+.lesson-icon p{
+    padding: 1px 15%;
+}
 }
   /* スマホ向けレイアウト */
   @media all and (max-width: 670px) {
