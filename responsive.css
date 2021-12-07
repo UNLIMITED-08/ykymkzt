@@ -4,11 +4,8 @@
         height:2500px;
     }
  .lesson{
-      width:100%;
+      width:50%;
   }
-.lesson-icon p{
-    padding: 1px 15%;
-}
 }
   /* スマホ向けレイアウト */
   @media all and (max-width: 670px) {
@@ -17,16 +14,12 @@
     }
     .lesson-wrapper{
         width: 100%;
-        height: 2700px;
+        height: 2000px;
     }
     .lesson{
         width:100%;
         
     }
-    .lesson-icon p{
-        padding: 1px 23%;
-    }
-    
    .footer-container{
        width: 50%;
    }
