@@ -4,7 +4,7 @@
         height:2500px;
     }
  .lesson{
-      width:50%;
+      width:100%;
   }
 .lesson-icon p{
     padding: 1px 15%;
@@ -21,13 +21,14 @@
     }
     .lesson{
         width:100%;
+        
     }
     .lesson-icon p{
         padding: 1px 23%;
     }
     
    .footer-container{
-       width: 75%;
+       width: 50%;
    }
    .clear{
     float: left;
