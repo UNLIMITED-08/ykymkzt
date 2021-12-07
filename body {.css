@@ -55,29 +55,25 @@ header {
 
   
 .top-wrapper {
-    height: 900px;
+    height: 1000px;
     width: 100%;
     background-image: url(folder/304876_l.jpg);
 }
 .top-container{
     text-align:center;
-    margin-top: 0px;
     padding: 300px 0px;
 }
 .top-container h1{
-    height: 0px;
     font-size: 35px;
     color: white;
     /*opacity: 0.8;
     /*background-color: tomato;*/
-    margin-top: 0px;
-    padding: 0px 0px;
 }
 .top-container p{
     font-size: 15px;
     color:white;
     /*background-color: violet;*/
-    margin-top: 250px;
+    margin-top: 150px;
 
 }
 .btn-wrapper{
@@ -125,7 +121,7 @@ header {
 
 .lesson-wrapper{
     width: 100%;
-    height: 1010px;
+    height: 1000px;
 }
 .lesson-container{
 }
@@ -156,7 +152,7 @@ header {
     left: 60px;
     color:white;
 }
-.txt-contents{
+.text-contents{
     color:black;
     font-size: 15px;
     padding: 20px 0;
@@ -164,9 +160,7 @@ header {
     border-radius: 30px;
     text-align: center;
 }
-.clear{
-  float:left;
-}
+
 
 
 .footer-container{
@@ -179,6 +173,7 @@ header {
   .footer-logo{
       font-size: 40px;
       color:black;
+      text-align: center;
   }
   .footer-list{
     padding: 50px 0;
