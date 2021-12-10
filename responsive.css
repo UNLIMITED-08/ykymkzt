@@ -26,4 +26,9 @@
    .clear{
     float: left;
   }
+  .flex-list{
+      flex-direction:column;
+      }
+  .flex-list lesson{
+      margin:0 auto;
   }
