@@ -18,7 +18,12 @@
     }
     .lesson{
         width:100%;
-        
+    }
+    .flex-list{
+        flex-direction: column;
+    }
+    .flex-list lesson{
+        margin: 0 auto;
     }
    .footer-container{
        width: 50%;
